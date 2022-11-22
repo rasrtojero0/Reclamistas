@@ -35,7 +35,7 @@ function evaluar(){
 
 // ---------------------BUSCADOR---------------------------------
 
-document.addEventListener("keyup", e=>{
+document.addEventListener("keydown", e=>{
 
     if (e.target.matches("#buscador")){
   
