@@ -34,6 +34,10 @@ margin-top: 2px;
     margin-top:13px;
   }
 
+.celda{
+    border: .5px solid rgb(229, 229, 229);
+}
+
 /* ------------------BUSCADOR------------------------ */
 
 
